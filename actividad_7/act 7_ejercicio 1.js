@@ -1,5 +1,5 @@
 const oracion="Hola mundo desde javascript";
-const palabra="hol";
+const palabra="mundo";
 
 function buscar(oracion,palabra){
     var cont=0;
