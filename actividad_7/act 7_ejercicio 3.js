@@ -1,4 +1,4 @@
-var palabra="Bob";
+let word="hola";
 
 function comprobarPalindromo(palabra){
     const palabraAlReves=palabra.split("").reverse();
@@ -11,5 +11,5 @@ function comprobarPalindromo(palabra){
     if(cont==1) return "Es un palindromo";
 }
 
-var result=comprobarPalindromo(palabra);
+var result=comprobarPalindromo(word);
 console.log(result);
