@@ -17,7 +17,7 @@
 
 > undefined
   2
-  porque cuando imprimimos la variable a aun no esta definida y el 2 porque al momento de llamar a la funcion anidada foo este retorna 2.
+  porque() cuando imprimimos la variable a aun no esta definida y el 2 porque al momento de llamar a la funcion anidada foo este retorna 2.
 > undefined
   2
 
