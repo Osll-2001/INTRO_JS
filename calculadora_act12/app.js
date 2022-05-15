@@ -120,5 +120,5 @@ igual.onclick=function(){
     else if(operador=="multi")resultadoF=num1*num2;
     else if(operador=="division")resultadoF=num1/num2;
     op.textContent=resultadoF;
-    result=resultadoF;
+    result=resultadoF+"";
 }
